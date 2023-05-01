@@ -1,2 +1,4 @@
 # newkadex
-our pet project
+our pet project - tu wstawiam nowy tekst
+
+* ### Test edycji pliku .md
